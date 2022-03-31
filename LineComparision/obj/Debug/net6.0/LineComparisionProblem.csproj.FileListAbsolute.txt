@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\bin\Debug\net6.0\LineComparisionProblem.exe
+C:\Users\DELL\source\repos\LineComparision\LineComparision\bin\Debug\net6.0\LineComparisionProblem.deps.json
+C:\Users\DELL\source\repos\LineComparision\LineComparision\bin\Debug\net6.0\LineComparisionProblem.runtimeconfig.json
+C:\Users\DELL\source\repos\LineComparision\LineComparision\bin\Debug\net6.0\LineComparisionProblem.dll
+C:\Users\DELL\source\repos\LineComparision\LineComparision\bin\Debug\net6.0\LineComparisionProblem.pdb
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.dll
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\refint\LineComparisionProblem.dll
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.pdb
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparisionProblem.genruntimeconfig.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\ref\LineComparisionProblem.dll

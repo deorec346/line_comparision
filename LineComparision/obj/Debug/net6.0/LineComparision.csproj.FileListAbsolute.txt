@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.csproj.CoreCompileInputs.cache
